@@ -1,0 +1,46 @@
+.btn1{
+    background-color: white;
+    color:blueviolet;
+    border-color: blueviolet;
+    border-collapse: initial;
+    font-size: large;
+    font-weight: bold;
+}
+
+ .im{
+  /* background-image: url('D:\ReactPortFolio\portfolio\ba.jpg');
+  background-size: 90%; */
+  background-repeat: no-repeat;
+} 
+
+/* .pos{
+  background-position-y: center;
+  /* background-position-x: center; 
+ 
+} */
+
+.btn1:hover{
+  background-color: blueviolet;
+  color :white;
+}
+
+.navb{
+  background-color:white;
+  color:blueviolet;
+}
+
+.nav-item{
+color: blueviolet;
+}
+
+a{
+  text-decoration: none;
+  color:blueviolet
+}
+.a1:hover{
+  color :white;
+}
+
+.h1i{
+  color:blueviolet;
+}

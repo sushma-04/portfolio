@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('D:\ReactPortFolio\portfolio\ba.jpg');
+  background-size: 95%;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-position: absolute;
 }
 
 code {
